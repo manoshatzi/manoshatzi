@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Manos, and I like coding!
+
+I'm a Fullstack Software Engineer creating beautiful things for the Web and Apps for Mobile Devices
+
+
 <!--
 **manoshatzi/manoshatzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
